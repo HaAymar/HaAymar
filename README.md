@@ -7,8 +7,8 @@ I am Aymar Davy, originally from Burundi but currently residing in Belgium. I am
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaAymar&hide_progress=true)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,nest,react,cs,js,ts,dotnet,nodejs&perline=3)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,nest,react,cs,js,ts,dotnet,nodejs)](https://skillicons.dev)
+ 
 ## Tools I use
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,git,figma,xd,postman,vscode,linux,aws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,git,figma,xd,postman,vscode,linux,aws)](https://skillicons.dev)
  
